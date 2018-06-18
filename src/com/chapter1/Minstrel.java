@@ -1,4 +1,4 @@
-package com;
+package com.chapter1;
 
 import java.io.PrintStream;
 
